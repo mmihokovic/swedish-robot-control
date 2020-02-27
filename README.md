@@ -17,9 +17,9 @@ public interface IPoint
 }
 ```
 The robot moves in the room by interpreting a string of commands in English:
-**L** - turn left **R** - turn right **F **- move forward. Example: **LFFRFRFRFF**
+**L** - turn left **R** - turn right **F**- move forward. Example: **LFFRFRFRFF**
 It should also be possible to configure the robot to understand Swedish:
-**V** - turn left **H **- turn right **G **- move forward. Example: **VGGHGHGHGG**
+**V** - turn left **H**- turn right **G**- move forward. Example: **VGGHGHGHGG**
 At the end of the command sequence, the robot should report its position *(x,y)* and the
 direction it’s facing. At the start of the command sequence, the robot is always facing North.
 
@@ -33,13 +33,43 @@ We configure a circular room with radius **10**, centered around origo, and with
 the instruction set **HHGVGGVHG**, the robot reports *3 1 Ö*.
 
 # Dictionary 
-**Swedish 	English**
-- Norr 		North
-- Syd 		South 
-- Höger 	Right
-- Öst 		East 
-- Väst 		West 
-- Vänster 	Left
-- Gå framåt Move forward
+<table>
+<thead>
+<tr>
+<th><bold>Swedish</bold></th>
+<th><bold>English</bold></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Norr</td>
+<td>North</td>
+</tr>
+<tr>
+<td>Syd</td>
+<td>South</td>
+</tr>
+<tr>
+<td>Höger</td>
+<td>Right</td>
+</tr>
+<tr>
+<td>Öst</td>
+<td>East</td>
+</tr>
+<tr>
+<td>Väst</td>
+<td>West</td>
+</tr>
+<tr>
+<td>Vänster</td>
+<td>Left</td>
+</tr>
+<tr>
+<td>Gå framåt</td>
+<td>Move forward</td>
+</tr>
+</tbody>
+</table>
 
 Author: Marko Mihoković
