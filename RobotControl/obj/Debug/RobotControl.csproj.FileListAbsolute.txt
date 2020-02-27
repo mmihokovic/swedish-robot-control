@@ -1,0 +1,6 @@
+C:\Users\Noa\Source\Repos\RobotControl\RobotControl\bin\Debug\RobotControl.exe.config
+C:\Users\Noa\Source\Repos\RobotControl\RobotControl\bin\Debug\RobotControl.exe
+C:\Users\Noa\Source\Repos\RobotControl\RobotControl\bin\Debug\RobotControl.pdb
+C:\Users\Noa\Source\Repos\RobotControl\RobotControl\obj\Debug\RobotControl.csproj.CoreCompileInputs.cache
+C:\Users\Noa\Source\Repos\RobotControl\RobotControl\obj\Debug\RobotControl.exe
+C:\Users\Noa\Source\Repos\RobotControl\RobotControl\obj\Debug\RobotControl.pdb

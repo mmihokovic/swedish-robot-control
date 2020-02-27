@@ -1,0 +1,16 @@
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\obj\Debug\RobotControlTest.csprojResolveAssemblyReference.cache
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\obj\Debug\RobotControlTest.csproj.CoreCompileInputs.cache
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\bin\Debug\RobotControlTest.dll
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\bin\Debug\RobotControlTest.pdb
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\bin\Debug\RobotControl.exe
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\bin\Debug\RobotControl.pdb
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\bin\Debug\RobotControl.exe.config
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\obj\Debug\RobotControlTest.dll
+C:\Users\Noa\Source\Repos\RobotControl\RobotControlTest\obj\Debug\RobotControlTest.pdb
